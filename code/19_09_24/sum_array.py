@@ -20,7 +20,7 @@ def _sum(arr):
  
  
 # main function
-if _name_ == "_main_":
+if __name__ == "__main__":
     # input values to list
     arr = [12, 3, 4, 15]
  
